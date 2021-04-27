@@ -1,0 +1,13 @@
+[
+    {
+        "email": "test@hlg.edu",
+        "password": "$2b$12$5HRTT1rU/O77RLzqR78wsueDs/XoidTQjp0SKpik.SVqVAxlWyT8C",
+        "verified": "2021-04-15T16:38:56.602Z"
+    },
+    {
+        "email": "test2@hlg.edu",
+        "password": "$2b$12$sh73q.G3PvoXSNlRB5pB/u/JDnGYtDARHBsvzt29vaCLNS4t0xOc6",
+        "verified": null,
+        "confirmCode": "2d1647e7118940b28f6733e339aa984e"
+    }
+]
